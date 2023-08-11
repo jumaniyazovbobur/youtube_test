@@ -3,4 +3,5 @@ public class Professor {
     private String name;
     private Integer age;
     private String nickName;
+    private String middle;
 }
