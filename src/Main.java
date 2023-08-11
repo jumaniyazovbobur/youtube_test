@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Assalomu aleykum!");
         System.out.println("MAZGI ACADEMY!");
         System.out.println("New Function");
+        System.out.println("Test-1");
     }
 }
